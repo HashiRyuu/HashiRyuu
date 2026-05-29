@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @HashiRyuu
 - 👀 I’m interested in math, physics, engineering, and computer science
-- 🌱 I’m currently college student
 - 📫 How to reach me message me in GitHub
-- 😄 Pronouns: guess it :))
 - ⚡ Fun fact: I'm an introvert
 
 <!---
