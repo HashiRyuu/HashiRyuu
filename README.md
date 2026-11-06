@@ -4,7 +4,7 @@ I'm an **Electrical & Computer Engineering student at UC San Diego** interested 
 
 I enjoy understanding how systems work from the circuit level up: digital logic, computer architecture, embedded programming, and the tools used to design and test them.
 
-##Technical skills
+## Technical skills
 
 **Programming**
 
@@ -23,14 +23,14 @@ I enjoy understanding how systems work from the circuit level up: digital logic,
 
 <!-- As you publish repositories, turn each project name into a link: [Project name](https://github.com/USERNAME/REPOSITORY). -->
 
-##Areas I want to explore
+## Areas I want to explore
 
 - Digital hardware, RTL, and chip design
 - Embedded systems and firmware
 - Computer architecture
 - Hardware verification and testing
 
-##How I approach projects
+## How I approach projects
 
 I'm trying to build a habit of documenting more than the final result: **design choices, schematics, code, simulations, test results, and what didn't work**. A project is more useful when someone else can understand and reproduce it.
 
