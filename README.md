@@ -1,39 +1,38 @@
-# Hi, I'm Hashi 👋
+# Hi, I'm Hashi
 
-I'm an **Electrical & Computer Engineering student at UC San Diego** interested in the intersection of hardware and software.
+I'm an **Electrical & Computer Engineering student at UC San Diego** interested in the boundary between **hardware and software**—from digital circuits and computer architecture to the programs that run on top.
 
-I enjoy understanding how systems work from the circuit level up: digital logic, computer architecture, embedded programming, and the tools used to design and test them.
+I like building things, figuring out why they work, and documenting the trade-offs along the way.
 
-## Technical skills
+## Selected projects
 
-**Programming**
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Mini language interpreter](https://github.com/HashiRyuu/lanProject) | A line-oriented interpreter with variables, arithmetic operations, and a simple command dispatcher | C++ |
+| [SFML narrative prototype](https://github.com/HashiRyuu/A_Project_SFML_VM) | Dialogue progression, script reading, sprite rendering, and character blinking | C++, SFML 3 |
+| [Arcade shooter](https://github.com/HashiRyuu/shootGameProject) | A game loop with player controls, projectiles, collision detection, scoring, and audio | C++, SFML |
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+These are learning projects and prototypes. Their READMEs explain what works, what is unfinished, and how to explore the code.
 
-**Hardware & engineering**
+## Engineering interests
 
-- Digital logic and basic HDL design (currently learning Verilog)
-- Circuit analysis, measurement, and troubleshooting
-- Computer architecture and MIPS assembly
-- Data structures and algorithms
+- **Digital hardware:** combinational and sequential logic, RTL design, and hardware verification
+- **Embedded systems:** firmware, hardware/software integration, and debugging
+- **Computer architecture:** low-level programming, processors, and memory systems
+- **Measurement:** circuit analysis, simulation, and hands-on test equipment
 
-**Tools I've worked with:** Git, GitHub, Logisim, SFML, Tkinter, and oscilloscopes.
+## Languages and tools
 
-<!-- As you publish repositories, turn each project name into a link: [Project name](https://github.com/USERNAME/REPOSITORY). -->
+**Programming:** C, C++, Python, MIPS assembly  
+**Hardware (learning / coursework):** Verilog, digital logic, circuit analysis  
+**Development:** Git, GitHub, SFML, Tkinter, Logisim, Vivado, oscilloscopes
 
-## Areas I want to explore
+## How I work
 
-- Digital hardware, RTL, and chip design
-- Embedded systems and firmware
-- Computer architecture
-- Hardware verification and testing
+A useful engineering repository should explain more than *what* the code does. I aim to include the problem, design decisions, build instructions, tests or measurements, known limitations, and next steps.
 
-## How I approach projects
-
-I'm trying to build a habit of documenting more than the final result: **design choices, schematics, code, simulations, test results, and what didn't work**. A project is more useful when someone else can understand and reproduce it.
+I'm continuing to improve these projects while studying digital design, circuits, and computer engineering.
 
 ---
 
-*Currently learning, building, and improving one project at a time.*
+[Browse my repositories](https://github.com/HashiRyuu?tab=repositories) · [Explore my contributions](https://github.com/HashiRyuu)
